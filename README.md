@@ -2,4 +2,5 @@
 
 ## About
 
-This is a collection of JavaScript exercises written during the Lighthouse Labs Prep Course (Section 4: Programming Fundamentals).
+This is a collection of [JavaScript exercises](https://github.com/workshopper/javascripting#run-the-workshop) completed during the Lighthouse Labs Prep Course (Section 2: Dev Environment).
+
